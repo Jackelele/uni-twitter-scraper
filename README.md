@@ -1,7 +1,9 @@
 <h3 align="center">Twitter Scraper</h3>
 <div align="center">
+  
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/github/license/Jackelele/iceberg)](/LICENSE)
+ 
 </div>
   
 ---
